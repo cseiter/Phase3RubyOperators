@@ -94,3 +94,4 @@ puts "Hey, it's not 2015!" unless this_year == 2015
 
 * [Ruby Operators](http://www.techotopia.com/index.php/Ruby_Operators)
 * [Stack Overflow - Ternary Operators](http://stackoverflow.com/a/4252945)
+# Phase3RubyOperators
